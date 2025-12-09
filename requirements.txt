@@ -1,0 +1,11 @@
+numpy 
+pandas 
+seaborn 
+matplotlib 
+scikit-learn 
+factor_analyzer
+yellowbrick
+sqlalchemy
+psycopg2
+conda-forge 
+python-dotenv

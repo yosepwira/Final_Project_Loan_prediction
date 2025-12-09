@@ -1,0 +1,8 @@
+{
+    "0": "The Best. Pinjaman Kecil-Menengah dengan Suku Bunga dan Grade Terbaik (A/B). Volume terbesar. Risiko paling rendah.",
+    "4": "Better. Pinjaman Menengah-Besar dengan Suku Bunga Sangat Rendah (B). Ideal untuk upselling dan retensi.",
+    "2": "Good (Needs Monitoring). Pinjaman Terbesar (hampir $30K), Grade C. Harus dimonitor ketat karena nilai pinjaman yang tinggi, meskipun risiko bunga menengah.",
+    "3": "Medium Risk. (Late Payment Monitor). Pinjaman Kecil dengan Suku Bunga Tinggi (0.17). Tingkat DPD tinggi. Target untuk refinancing yang agresif.",
+    "1": "High Risk. (Collection Needed). DPD TERTINGGI (108 hari) dan Suku Bunga Tinggi. Pinjaman ini memiliki masalah pembayaran yang signifikan. Target Collection Prioritas."
+
+}
